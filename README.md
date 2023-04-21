@@ -1,6 +1,6 @@
 # Open Pubs Application
 
-![images](drinkers.png)
+![images](https://github.com/Abdul-Jaweed/Open-Pubs-Application/blob/main/drinkers.jpg)
 
 
 Let’s assume you are on a vacation in the United Kingdom with your friends. For fun, you decided to go to the Pubs nearby for some drinks. Google Map is down because of some issues. 
