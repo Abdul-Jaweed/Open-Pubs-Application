@@ -1,0 +1,10 @@
+Field,Possible Values,Comments
+fsa_id,int,Food Standard Agency's ID for this pub.
+name,string,Name of the pub.
+address,string,Address fields separated by commas.
+postcode,string,Postcode of the pub.
+easting,int,
+northing,int,
+latitude,decimal,
+longitude,decimal,
+local_authority,string,Local authority this pub falls under.
